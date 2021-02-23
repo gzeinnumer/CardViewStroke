@@ -71,7 +71,7 @@
 </shape>
 ```
 
-![]()
+![](https://github.com/gzeinnumer/CardViewStroke/blob/master/preview/example1.jpg)
 
 ---
 
